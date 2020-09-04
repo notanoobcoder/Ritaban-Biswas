@@ -1,2 +1,2 @@
 # Ritaban-Biswas
-A portfolio website to implement Dark Mode.
+A dummy portfolio website to implement Dark Mode.
